@@ -1,0 +1,20 @@
+{
+  "OWNER_ADDRESS": "0xA5EC304269bE948bdB67c5A9e30391A6AFceB4aD",
+  "CONTRACT_ADDRESS": "0x7f15c483dF568c4F9425958669C70d27B7B1F3F7",
+
+  "SCAN_LINK": "https://Etherscan.com/0x7f15c483dF568c4F9425958669C70d27B7B1F3F7",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "ToadleToadle",
+  "SYMBOL": "TDL",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/Toadletoadle",
+  "SHOW_BACKGROUND": true
+}
